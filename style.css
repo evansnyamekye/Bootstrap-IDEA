@@ -44,11 +44,13 @@ ul {
 .top-section {
   /* padding-top: 114px; */
   min-height: 92vh;
+
   /* row-gap: 12px; */
   background-image: url(img/Header\ bg@2x.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+
   /* padding: 0 24px 24px; */
   border-bottom-left-radius: 88px;
   background-color: #ffff;
@@ -128,7 +130,7 @@ ul {
 
 .works-stack li {
   width: fit-content;
-  height: fit-content;
+  height: 25px;
   padding: 4px 12px;
   background: #ebebff;
   border-radius: 8px;
