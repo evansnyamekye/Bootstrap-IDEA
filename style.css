@@ -4,6 +4,7 @@
   font-family: "Poppins", sans-serif;
   padding: 0;
 }
+
 .s-media,
 i {
   display: flex;
@@ -166,6 +167,7 @@ ul {
   color: #ffff;
   background-color: #396df2;
 }
+
 .works-button:active {
   background-color: #2230d2;
   color: #fff;
