@@ -49,6 +49,10 @@ ul {
   transition: all 0.5s ease-in-out;
 }
 
+button .navbar-toggler {
+  color: #6070ff;
+}
+
 .top-section {
   /* padding-top: 114px; */
   min-height: 92vh;
