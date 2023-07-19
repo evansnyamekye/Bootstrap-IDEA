@@ -54,8 +54,6 @@ ul {
   margin-bottom: 112px;
 }
 
-
-
 .intro {
   color: #172b4d;
   font-size: 48px;
@@ -141,9 +139,8 @@ ul {
   font-size: 12px;
   line-height: 16px;
   color: #6070ff;
-  margin-left: 5;
+  margin-left: 5px;
 }
-
 
 .works-button {
   padding: 12px;
