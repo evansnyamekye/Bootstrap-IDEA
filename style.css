@@ -99,6 +99,11 @@ ul {
   padding: 0 24px;
 }
 
+.card_img {
+  width: 100%;
+  height: auto;
+}
+
 .tonic {
   padding: 28px 16px;
   border-radius: 16px;
