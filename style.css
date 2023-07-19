@@ -72,6 +72,14 @@ ul {
   margin-bottom: -20px;
 }
 
+.socials-icons img {
+  width: 22px;
+}
+
+.socials-icons img:hover {
+  opacity: 0.5;
+}
+
 .socials-header {
   font-weight: 500;
   font-size: 16px;
